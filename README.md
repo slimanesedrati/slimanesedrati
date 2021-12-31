@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2> Hi, I'm Slimane Sedrati!</h2>
 
 ---
