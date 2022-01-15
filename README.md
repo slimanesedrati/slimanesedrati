@@ -1,6 +1,6 @@
 <h2> Hi, I'm Slimane Sedrati!</h2>
 
-- <p><b>Currently: CS Student at  <a href="https://www.univ-bba.dz/"> University of Bordj Bou Arreridj
+- <p><b>Currently : CS Student at  <a href="https://www.univ-bba.dz/"> University of Bordj Bou Arreridj
 </a>
 
 [![Twitter: SlimaneSedrati](https://img.shields.io/reddit/user-karma/combined/slimane_sedrati?style=social)](https://www.reddit.com/user/Slimane_Sedrati)
