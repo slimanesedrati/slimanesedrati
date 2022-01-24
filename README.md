@@ -18,7 +18,4 @@ const slimane = {
 
 ---
 
-<em><b>I love connecting with different people</b> so if you want to say <b> Hi , I'll be happy to meet you more!</b> :)</em>
-<br>
-
 
